@@ -3,7 +3,7 @@
 
 
 - 🌱 I’m currently learning Data Science
-<!-- Press "Windows" + . (dot) and pick and Emoji 😁 -->
+<!-- Press "Windows" + . (dot) and pick a Emoji 😁 -->
 
 <div>
   <a href="https://github.com/VMGelo">
