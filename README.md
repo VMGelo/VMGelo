@@ -18,4 +18,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Card GitHub stats](https://github-readme-stats.vercel.app/api?username=VMGelo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/VMGelo/github-readme-stats)
+<div>
+  <a href="https://github.com/VMGelo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VMGelo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/VMGelo/github-readme-stats"  />
+</div>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Python" height="30" width="40" src="https://github.com/user-attachments/assets/97b3248f-e549-4aca-8595-709b2717c5c1" />
+</div>
+##
