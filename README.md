@@ -1,8 +1,13 @@
 # Hello there 👋
-![StarWarsObiWanGIF](https://github.com/user-attachments/assets/76ee401f-7785-4f14-9074-48c56f5d45d3)
+
+<div>
+  <img height="180em" src="https://github.com/user-attachments/assets/76ee401f-7785-4f14-9074-48c56f5d45d3" />
+</div>
+
+<!-- ![StarWarsObiWanGIF](https://github.com/user-attachments/assets/76ee401f-7785-4f14-9074-48c56f5d45d3) -->
 
 
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently learning Data Science 🌱
 <!-- Press "Windows" + . (dot) and pick a Emoji 😁 -->
 
 <div>
@@ -11,7 +16,7 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="30" width="40" src="https://github.com/user-attachments/assets/97b3248f-e549-4aca-8595-709b2717c5c1" />
+  <img align="center" alt="Python" height="50" width="50" src="https://github.com/user-attachments/assets/97b3248f-e549-4aca-8595-709b2717c5c1" />
 </div>
 
 ##
