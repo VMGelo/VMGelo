@@ -1,5 +1,8 @@
-## Hi there 👋
+# Hello there 👋
+![StarWarsObiWanGIF](https://github.com/user-attachments/assets/76ee401f-7785-4f14-9074-48c56f5d45d3)
 
+
+- 🌱 I’m currently learning Data Science
 <!--
 **VMGelo/VMGelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
