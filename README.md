@@ -17,10 +17,8 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="50" width="50" src="https://github.com/user-attachments/assets/97b3248f-e549-4aca-8595-709b2717c5c1" />
-
-  ![postman-original](https://github.com/user-attachments/assets/7f76469d-3c51-488a-a4c3-589f7259e936)
-  
-  ![jupyter-original-wordmark](https://github.com/user-attachments/assets/c85a15ee-1f09-43bf-9998-25e32f3ed9be)
+  <img align="center" alt="Postman" height="50" width="50" src="https://github.com/user-attachments/assets/7f76469d-3c51-488a-a4c3-589f7259e936" />
+  <img align="center" alt="Jupyter" height="50" width="50" src="https://github.com/user-attachments/assets/c85a15ee-1f09-43bf-9998-25e32f3ed9be" />
 </div>
 
 ##
