@@ -15,6 +15,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VMGelo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/VMGelo/github-readme-stats"  />
 </div>
 
+*Only Public Repositories
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="50" width="70" src="https://github.com/user-attachments/assets/97b3248f-e549-4aca-8595-709b2717c5c1" />
   <img align="center" alt="Postman" height="50" width="70" src="https://github.com/user-attachments/assets/7f76469d-3c51-488a-a4c3-589f7259e936" />
