@@ -7,7 +7,7 @@
 <!-- ![StarWarsObiWanGIF](https://github.com/user-attachments/assets/76ee401f-7785-4f14-9074-48c56f5d45d3) -->
 
 - 🎓 Computer Engineer
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently learning Data Science and N8N Automation
 - 💻 Python Developer in training 
 <!-- Press "Windows" + . (dot) and pick a Emoji 😁 -->
 
