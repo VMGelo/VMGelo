@@ -20,7 +20,7 @@
 -->
 ##
 
-<div style="display: inline"><br>
+<div style="display: inline-block"><br>
   <img align="center" alt="Python" height="50" width="70" src="https://github.com/user-attachments/assets/97b3248f-e549-4aca-8595-709b2717c5c1" />
   <img align="center" alt="Postman" height="50" width="70" src="https://github.com/user-attachments/assets/7f76469d-3c51-488a-a4c3-589f7259e936" />
   <img align="center" alt="MarkDown" height="50" width="70" src="https://github.com/user-attachments/assets/78ddc4d8-0ecf-405a-a4dc-847675268dd0" />
