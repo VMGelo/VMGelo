@@ -8,6 +8,7 @@
 
 - 🎓 Computer Engineer
 - 🌱 I’m currently learning Data Science and N8N Automation
+- 🌱 Post degree in Data Engineering and Architecture with Artificial Intelligence.
 - 💻 Python Developer in training 
 <!-- Press "Windows" + . (dot) and pick a Emoji 😁 -->
 <!--
