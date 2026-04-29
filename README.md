@@ -17,13 +17,14 @@
 ⚙️ Automação | N8N
 🗄️ Dados | SQL | APIs
 <!-- Press "Windows" + . (dot) and pick a Emoji 😁 -->
-
+<!--
 <div>
   <a href="https://github.com/VMGelo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VMGelo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/VMGelo/github-readme-stats"  />
 </div>
+-->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=VMGelo)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=VMGelo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 
 *Only Public Repositories
 <!--
