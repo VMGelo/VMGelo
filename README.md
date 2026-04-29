@@ -5,11 +5,17 @@
 </div>
 
 <!-- ![StarWarsObiWanGIF](https://github.com/user-attachments/assets/76ee401f-7785-4f14-9074-48c56f5d45d3) -->
+# 👋 Olá, eu sou o Vinicius
 
-- 🎓 Computer Engineer
-- 🌱 I’m currently learning Data Science and N8N Automation
-- 🌱 Post degree in Data Engineering and Architecture with Artificial Intelligence.
-- 💻 Python Developer in training 
+🎓 Formado em Engenharia da Computação
+📊 Cursando uma Pós-graduação em Engenharia e Arquitetura de Dados com Inteligência Artificial
+🚀 Automação, scraping e pipelines de dados
+
+### 🛠️ Tecnologias
+
+🐍 Python | Pandas | Selenium
+⚙️ Automação | N8N
+🗄️ Dados | SQL | APIs
 <!-- Press "Windows" + . (dot) and pick a Emoji 😁 -->
 
 <div>
@@ -17,8 +23,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VMGelo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/VMGelo/github-readme-stats"  />
 </div>
 
-*Only Public Repositories
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=VMGelo)
 
+*Only Public Repositories
+<!--
 ##
 
 <p align="center">
@@ -29,3 +37,4 @@
 </p>
 
 ##
+-->
